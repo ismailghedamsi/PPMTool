@@ -1,0 +1,5 @@
+package com.ismail.ppmt.repository;
+
+public interface ProjectRepository {
+
+}
